@@ -8,7 +8,6 @@ Readly is a single-page web application that enables users to browse a digital c
 
 
 
-<img width="1501" height="1129" alt="Readly-Booksore Infrastructure" src="https://github.com/user-attachments/assets/abae6af0-9970-429b-bd60-33df301fc52f" />
 
 
 
